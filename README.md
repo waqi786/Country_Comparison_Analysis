@@ -1,6 +1,6 @@
 # Country_Comparison_Analysis
 
-**Overview:**
+**Overview**
 
 This notebook delves into global data, offering a comprehensive analysis of various countries across key metrics like GDP, healthcare, and education. By visualizing and exploring these indicators, the notebook aims to provide valuable insights into global trends and comparisons.
 
